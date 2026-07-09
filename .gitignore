@@ -1,0 +1,33 @@
+# Node and dependency folders
+node_modules/
+
+# Composer vendor folder
+vendor/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.cache
+
+# PHPStorm
+*.iml
+
+# XAMPP / Apache runtime files
+*.pid
+*.sock
+
+# Optional PHP cache
+*.phpunit.result.cache
+
+# Backup files
+*~
+*.bak
+*.swp
