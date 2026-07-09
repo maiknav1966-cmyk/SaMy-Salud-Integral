@@ -19,8 +19,4 @@ Proyecto CRUD de registro de pacientes desarrollado con PHP y MySQL.
   - `diagrama.sql` (script SQL) o
   - `diagrama.png` / `diagrama.jpg` (imagen del diagrama)
 
-### Video demostrativo
-- Si no quieres subir el video directamente al repo, súbelo a YouTube como "no listado" o a Google Drive / OneDrive.
-- Coloca aquí el enlace al video:
-
-Video: https://youtu.be/r3Q5CFGxiFw?si=qj70KByHwPkGyB0x
+### V
